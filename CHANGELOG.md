@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+### [1.33.1](https://www.github.com/googleapis/python-storage/compare/v1.33.0...v1.33.1) (2020-11-20)
+
+
+### Bug Fixes
+
+* retry uploads only conditionally ([#316](https://www.github.com/googleapis/python-storage/issues/316)) ([547740c](https://www.github.com/googleapis/python-storage/commit/547740c0a898492e76ce5e60dd20c7ddb8a53d1f))
+
 ## [1.33.0](https://www.github.com/googleapis/python-storage/compare/v1.32.0...v1.33.0) (2020-11-16)
 
 
